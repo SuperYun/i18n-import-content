@@ -1,0 +1,30 @@
+{
+  "name": "pnti18n",
+  "version": "1.0.0",
+  "description": "Generate a js file from the i18n contents of the.xlsx file",
+  "main": "index.js",
+  "bin": {
+    "pnti18n": "bin/i18n-import-content.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "xxx"
+  },
+  "keywords": [
+    "i18n",
+    "i18n-import",
+    "i18n-generate",
+    "pnti18n"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cage Ma",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "prettier": "^2.8.4",
+    "xlsx": "^0.18.5"
+  }
+}
