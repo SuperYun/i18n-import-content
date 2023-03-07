@@ -1,6 +1,6 @@
 {
   "name": "pnti18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a js file from the i18n contents of the.xlsx file",
   "main": "index.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "xxx"
+    "url": "https://github.com/SuperYun/i18n-import-content.git"
   },
   "keywords": [
     "i18n",
